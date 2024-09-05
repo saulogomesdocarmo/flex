@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+}
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+body{
+    font-family: sans-serif;  
+}
+input{
+    width: 90px;
+    padding: 10px;
+    border: 1px solid #a1a1a1;
+    border-radius: 5px;
+}
